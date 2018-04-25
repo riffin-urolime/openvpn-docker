@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            a8:cc:eb:21:13:9c:d9:c3:fa:37:d1:61:bc:1e:3f:31
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=riffin.ml
+        Validity
+            Not Before: Apr 24 16:31:27 2018 GMT
+            Not After : Apr 21 16:31:27 2028 GMT
+        Subject: CN=vpn.riffin.ml
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d8:44:6e:ec:75:1d:cf:4f:ce:c6:dc:61:fc:82:
+                    2d:17:a1:6b:c4:cc:72:8a:d6:60:96:a7:27:4d:11:
+                    5a:df:fa:0b:74:15:2d:38:33:da:77:50:8e:0a:e0:
+                    50:50:86:a4:e0:91:ed:a0:71:fd:44:4e:ec:7c:f7:
+                    56:36:42:86:81:96:e5:3b:1f:0c:7b:6a:25:6c:cb:
+                    73:5f:84:a1:24:c0:aa:10:bd:0f:b9:12:49:71:0f:
+                    8b:cd:06:69:80:9a:1e:a3:6a:93:ba:6d:e4:ed:9f:
+                    12:1d:e9:ac:34:b2:9d:ac:54:4d:b1:d2:b2:65:0a:
+                    73:a9:43:10:c4:be:08:38:52:4d:7f:8e:76:35:2a:
+                    cd:6c:a5:11:59:2d:4a:ca:94:22:59:a6:11:0f:56:
+                    66:07:42:1b:c0:9d:4b:94:29:7a:a5:6c:0f:0d:27:
+                    c3:1f:15:80:f0:76:35:9d:aa:6a:28:21:04:c8:5e:
+                    3f:8a:b8:71:b7:2a:f6:98:09:79:8e:3a:2c:3c:8e:
+                    b6:42:ae:f2:44:1a:68:c7:30:ce:51:33:e1:96:ae:
+                    fc:0b:37:32:88:2b:bb:1d:ec:61:24:5a:e8:fb:b2:
+                    16:70:da:97:a6:6a:fc:7d:07:9c:f9:a5:4d:16:fc:
+                    fd:2f:6c:56:46:bb:0f:54:f6:61:fb:22:ef:c1:2f:
+                    b3:d7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                98:33:BA:1F:10:9F:BE:AB:51:57:C9:BA:A9:5C:16:E3:47:7E:C2:11
+            X509v3 Authority Key Identifier: 
+                keyid:22:7E:85:08:75:6F:48:9E:7C:9A:54:01:29:A9:E3:05:C8:20:BC:21
+                DirName:/CN=riffin.ml
+                serial:93:31:C6:12:54:28:53:1D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         45:df:7e:1e:aa:06:c1:2a:92:61:a6:07:dc:72:67:a9:24:82:
+         35:f0:86:51:7a:04:d2:23:46:98:29:1b:48:06:98:8f:e5:9a:
+         18:b3:78:44:15:7c:a8:8c:86:db:ce:99:fd:d0:5c:59:3d:27:
+         f3:e6:9c:9a:5b:7b:b6:b5:51:36:b6:89:b8:af:c0:48:58:34:
+         18:31:dc:54:fb:cf:2a:91:b6:3c:e7:c3:31:41:50:1c:79:50:
+         de:e3:31:e7:f4:7d:54:17:39:ce:e4:b1:09:b0:94:eb:49:f5:
+         f7:3c:ba:bd:d0:6b:b4:59:f5:cd:1d:5c:d4:9e:e8:b6:f1:cf:
+         03:9c:3c:b8:8c:b0:2a:96:25:17:4f:92:8d:78:e6:3a:6c:6f:
+         64:41:22:2d:d9:22:df:73:04:81:9e:a3:56:8c:ab:6d:c0:d1:
+         69:2a:d8:bf:51:47:dd:e4:35:07:e4:7b:f9:6d:6b:c6:08:42:
+         5b:60:28:42:3d:22:6d:9f:4a:5b:0b:23:63:90:a6:88:b7:0e:
+         cb:6c:74:35:38:b8:76:ed:b7:18:2e:65:01:70:1e:d4:07:83:
+         03:c2:15:de:04:df:01:9e:2f:fd:9a:05:af:30:d6:52:53:29:
+         de:74:93:0f:2f:80:bd:26:2c:79:1b:16:ff:f1:8f:21:8b:f1:
+         ea:2d:e5:3b
+-----BEGIN CERTIFICATE-----
+MIIDTTCCAjWgAwIBAgIRAKjM6yETnNnD+jfRYbwePzEwDQYJKoZIhvcNAQELBQAw
+FDESMBAGA1UEAwwJcmlmZmluLm1sMB4XDTE4MDQyNDE2MzEyN1oXDTI4MDQyMTE2
+MzEyN1owGDEWMBQGA1UEAwwNdnBuLnJpZmZpbi5tbDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANhEbux1Hc9PzsbcYfyCLReha8TMcorWYJanJ00RWt/6
+C3QVLTgz2ndQjgrgUFCGpOCR7aBx/URO7Hz3VjZChoGW5TsfDHtqJWzLc1+EoSTA
+qhC9D7kSSXEPi80GaYCaHqNqk7pt5O2fEh3prDSynaxUTbHSsmUKc6lDEMS+CDhS
+TX+OdjUqzWylEVktSsqUIlmmEQ9WZgdCG8CdS5QpeqVsDw0nwx8VgPB2NZ2qaigh
+BMheP4q4cbcq9pgJeY46LDyOtkKu8kQaaMcwzlEz4Zau/As3Mogrux3sYSRa6Puy
+FnDal6Zq/H0HnPmlTRb8/S9sVka7D1T2Yfsi78Evs9cCAwEAAaOBlTCBkjAJBgNV
+HRMEAjAAMB0GA1UdDgQWBBSYM7ofEJ++q1FXybqpXBbjR37CETBEBgNVHSMEPTA7
+gBQifoUIdW9InnyaVAEpqeMFyCC8IaEYpBYwFDESMBAGA1UEAwwJcmlmZmluLm1s
+ggkAkzHGElQoUx0wEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0G
+CSqGSIb3DQEBCwUAA4IBAQBF334eqgbBKpJhpgfccmepJII18IZRegTSI0aYKRtI
+BpiP5ZoYs3hEFXyojIbbzpn90FxZPSfz5pyaW3u2tVE2tom4r8BIWDQYMdxU+88q
+kbY858MxQVAceVDe4zHn9H1UFznO5LEJsJTrSfX3PLq90Gu0WfXNHVzUnui28c8D
+nDy4jLAqliUXT5KNeOY6bG9kQSIt2SLfcwSBnqNWjKttwNFpKti/UUfd5DUH5Hv5
+bWvGCEJbYChCPSJtn0pbCyNjkKaItw7LbHQ1OLh27bcYLmUBcB7UB4MDwhXeBN8B
+ni/9mgWvMNZSUynedJMPL4C9Jix5Gxb/8Y8hi/HqLeU7
+-----END CERTIFICATE-----

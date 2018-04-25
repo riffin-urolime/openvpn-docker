@@ -1,0 +1,11 @@
+version: '2'  
+services:  
+  openvpn:
+    cap_add:
+     - NET_ADMIN
+    build: .
+    ports:
+     - "1194:1194/udp"
+    restart: always
+    volumes:
+     - /root/openvpn/config:/etc/openvpn
